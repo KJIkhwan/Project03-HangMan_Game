@@ -1,17 +1,8 @@
 /*
- @ Dosya adı : Game
-    @ Java programlama dilinde adam asmaca oyununun yapılmasını
-      içermektedir. 
-        - Program kullanıcıyı yönlendirecek bir menüden meydana gelecektir.
-        - Menüde bulunan seçenekler kullanıcı tarafından parantez içerisinde belirtilen karakter girilerek sağlanacaktır.
-        - Oyun kullanıcının bir kelimenin harflerini tahmin ederek kelimeyi en fazla 3 yanlış tahmin ile bilmesini sağlamak üzere kurulmuştur.
-        - Programda kullanıcı oyuna her yeni başladığında sözlükte bulunan bir kelime rastgele üretilecektir, 
-          programda kelimeler string bir array içerisinde tutulacaktır.
-    
-    @ BLM103 Bilgisayar Programlama I Dersi 1.Ödev
+ @ Project 03: Hangman Game
     @ Kod oluşturduğum Tarih : 16/11/2018
     @ Adı-soyad : Ikhwan KAJA 
-      Email : ikhwan.kaja@stu.fsm.edu.tr
+    @ Email : mono.ikh@gmail.com
  */
 package game;
 
