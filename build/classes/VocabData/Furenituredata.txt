@@ -1,0 +1,86 @@
+beds
+cradle
+trundle bed
+cabinets
+cellarette
+court cupboard
+cupboard
+sideboard
+vargueno
+chairs 
+Barcelona chair
+basket chair
+bath chair
+bench
+Brewster chair
+Carver chair
+cathedra
+chaise longue
+cockfighting chair
+confidante
+couch
+Cromwellian chair
+curule chair
+faldstool
+farthingale chair
+Gainsborough chair
+inglenook
+klismos
+ladder-back chair
+love seat
+Morris chair
+ottoman
+pew
+platform rocker
+scissors chair
+settee
+settle
+stool
+taboret
+throne
+wainscot chair
+Windsor chair
+wing chair
+chests
+armoire
+bureau
+cassone
+chest of drawers
+coffer
+commode
+dresser
+wardrobe
+clocks
+Act of Parliament clock
+banjo clock
+bracket clock
+grandfather clock
+ogee clock
+pillar and scroll shelf clock
+desks
+bonheur du jour
+carrel
+davenport
+lectern
+prie-dieu
+rolltop desk
+secretary
+bookcase
+whatnot
+tables
+cabriole leg (table part)
+candlestand
+Carlton House table
+console
+dressing table
+drop-leaf table
+drum table
+gateleg table
+gueridon
+highboy
+lowboy
+Parsons table
+Pembroke table
+tilt-top table
+tripod
+washstand
